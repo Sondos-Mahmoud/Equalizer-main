@@ -15,18 +15,26 @@ The application enables users to open a signal and adjust the magnitude of speci
 
 1. **Uniform Range Mode:**
    - Divides the total frequency range of the input signal into 10 equal ranges, each controlled by a dedicated slider in the UI.
-![Uploading 337877337-6e57bfdb-720c-4e62-86bd-9113db447182.png…]()
+![image](https://github.com/user-attachments/assets/2821cd6b-f5be-410f-9f09-1c45095d1aed)
 
 2. **Musical Instruments Mode:**
    - Allows each slider to control the magnitude of a specific musical instrument in the signal.
+     ![image](https://github.com/user-attachments/assets/32b92f42-75cd-4e1a-8528-fa6f2e4b0155)
+
 
 3. **Animal Sounds Mode:**
    - Permits each slider to control the magnitude of specific animal sounds in a mixture of frequencies.
+   ![image](https://github.com/user-attachments/assets/3f907c9b-2962-40e3-98df-f213fa194442)
+
 
 4. **ECG Abnormalities Mode:**
    - Empowers each slider to control the magnitude of arrhythmia components in the input signal.
+   ![image](https://github.com/user-attachments/assets/89180631-28f8-4a74-947f-0f5e58d3e0e0)
+
 
 In addition, the application employs four multiplication/smoothing windows (Rectangle, Hamming, Hanning, Gaussian) when multiplying the frequency range with the corresponding slider value.
+![image](https://github.com/user-attachments/assets/623814fc-15ce-4a70-bc28-10640e057041)
+
 
 Users can easily switch between modes through a combobox in the UI.
 
