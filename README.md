@@ -15,6 +15,7 @@ The application enables users to open a signal and adjust the magnitude of speci
 
 1. **Uniform Range Mode:**
    - Divides the total frequency range of the input signal into 10 equal ranges, each controlled by a dedicated slider in the UI.
+![Uploading 337877337-6e57bfdb-720c-4e62-86bd-9113db447182.png…]()
 
 2. **Musical Instruments Mode:**
    - Allows each slider to control the magnitude of a specific musical instrument in the signal.
